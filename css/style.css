@@ -51,3 +51,31 @@ h3 {
   left: 300px;
   bottom: 300px;
 }
+
+.webskillrow{
+  line-height: 2;
+}
+
+.skillrow{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%
+}
+
+.computer
+{
+  float: left;
+  width: 200px;
+  margin-right: 30px;
+}
+
+.angelapfp{
+  margin: 50px auto auto auto;
+}
+
+.skilldesctop{
+  margin: 50px auto 20px auto;
+  line-height: 2;
+  width: 50%
+}
